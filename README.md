@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Embark on a journey to a realm overrun by demons in a new epic RPG from the creators of the critically acclaimed Pathfinder: Kingmaker. Explore the nature of good and evil, learn the true cost of power, and rise as a Mythic Hero capable of deeds beyond mortal expectations.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | OS X El Capitan |
+| **Processor** | Min: Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz / Rec: Intel Core i7 CPU 920 @ 2.67GHz | Intel Core M-5Y51 @ 1.10GHz |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce 940M / Rec: NVIDIA GeForce GTX 1050 Ti | Metal-capable GPU |
+| **Storage** | 50 GB available space | 55 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
